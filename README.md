@@ -1,4 +1,4 @@
 
-# Haikus for Codespaces
+# 华科网安C语言程序设计实验报告及源代码
 
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+Huazhong University of Science and Technology, School of Cyberspace Security, C Programming Experiment Report and Source Code
